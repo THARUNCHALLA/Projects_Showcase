@@ -1,0 +1,55 @@
+.div {
+  overflow: auto;
+}
+.select {
+  height: 28px;
+  width: 250px;
+  outline: none;
+  cursor: pointer;
+  border-radius: 06px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.unordered {
+  display: flex;
+  flex-wrap: wrap;
+  max-height: 100vh;
+}
+.center {
+  display: flex;
+  align-items: center;
+  margin-top: 160px;
+  justify-content: center;
+}
+.Failure {
+  height: 400px;
+}
+.oops {
+  font-family: 'roboto';
+  font-size: 16px;
+  font-weight: 800;
+  color: black;
+}
+.center1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+.we {
+  font-family: 'roboto';
+  font-size: 16px;
+  color: #475569;
+  margin-top: 0px;
+  margin-bottom: 06px;
+}
+.button {
+  background-color: #328af2;
+  height: 28px;
+  width: 66px;
+  border-radius: 04px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
